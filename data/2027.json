@@ -1,0 +1,13 @@
+{
+  "year": 2027,
+  "sources": {"S1":"https://vietnamnews.vn/society/1801150/holiday-schedules-for-vietnamese-culture-day-lunar-new-year-national-day-approved.html","S2":"https://cafef.vn/bo-noi-vu-thong-bao-chi-tiet-lich-nghi-tet-am-lich-quoc-khanh-2027-188261010120450778.chn","S3":"https://vneconomy.vn/du-kien-cac-ngay-nghi-le-tet-trong-nam-2027.htm"},
+  "holidays": [
+    {"date":"2027-01-01","name_vi":"Tết Dương lịch","name_en":"New Year's Day","off_from":"2027-01-01","off_to":"2027-01-03","status":"expected","applies_to":"state sector","notes":"Friday, so the break runs through the weekend.","sources":["S3"]},
+    {"date":"2027-02-06","name_vi":"Tết Nguyên đán","name_en":"Lunar New Year (Tet)","off_from":"2027-02-04","off_to":"2027-02-10","status":"official","applies_to":"state sector","notes":"Seven days: 28th of the 12th lunar month to the 5th of the 1st. 5 Tet days plus 2 compensatory days. Date is the first day of the lunar year. The ministry gave private employers three options.","sources":["S1","S2","S3"]},
+    {"date":"2027-04-16","name_vi":"Giỗ Tổ Hùng Vương","name_en":"Hung Kings Commemoration","off_from":"2027-04-16","off_to":"2027-04-18","status":"expected","applies_to":"state sector","notes":"10th day of the 3rd lunar month. Friday, so the break runs through the weekend.","sources":["S3"]},
+    {"date":"2027-04-30","name_vi":"Ngày Giải phóng miền Nam","name_en":"Reunification Day","off_from":"2027-04-30","off_to":"2027-05-03","status":"expected","applies_to":"state sector","notes":"1 May is a Saturday, so the compensatory day is Monday 3 May.","sources":["S3"]},
+    {"date":"2027-05-01","name_vi":"Quốc tế Lao động","name_en":"International Labour Day","off_from":"2027-04-30","off_to":"2027-05-03","status":"expected","applies_to":"state sector","notes":"Same break as Reunification Day.","sources":["S3"]},
+    {"date":"2027-09-02","name_vi":"Quốc khánh","name_en":"National Day","off_from":"2027-09-02","off_to":"2027-09-05","status":"official","applies_to":"state sector","notes":"State sector: 2 and 3 September plus the weekend. Private employers: 2 September plus either 1 or 3 September.","sources":["S1","S2","S3"]},
+    {"date":"2027-11-24","name_vi":"Ngày Văn hóa Việt Nam","name_en":"Vietnamese Culture Day","off_from":"2027-11-24","off_to":"2027-11-24","status":"unconfirmed","applies_to":"unknown","notes":"Listed by one source as a one-day holiday. Not stated whether it is an official day off.","sources":["S3"]}
+  ]
+}

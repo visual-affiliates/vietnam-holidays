@@ -1,0 +1,7 @@
+{
+  "year": 2026,
+  "sources": {"S1":"https://vietnamnews.vn/society/1801150/holiday-schedules-for-vietnamese-culture-day-lunar-new-year-national-day-approved.html"},
+  "holidays": [
+    {"date":"2026-11-24","name_vi":"Ngày Văn hóa Việt Nam","name_en":"Vietnamese Culture Day","off_from":"2026-11-24","off_to":"2026-11-24","status":"official","applies_to":"state sector","notes":"One day off for cadres, civil servants and public employees. Not stated whether private employers must give it.","sources":["S1"]}
+  ]
+}
